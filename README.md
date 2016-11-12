@@ -14,6 +14,6 @@ vector soluciones, que contendrá los elementos que coinciden con su posición
 
 Cualquier duda/sugerencia/error enviar un correo a
 
-# albamoreno.ontiveros@correo.ugr.es
+ albamo@correo.ugr.es
 
 2016 © Copyleft - All Wrongs Reserved
